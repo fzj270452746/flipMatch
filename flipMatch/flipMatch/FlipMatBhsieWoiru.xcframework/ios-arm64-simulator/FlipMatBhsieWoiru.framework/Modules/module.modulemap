@@ -1,0 +1,6 @@
+framework module FlipMatBhsieWoiru {
+  umbrella header "FlipMatBhsieWoiru.h"
+  export *
+
+  module * { export * }
+}
